@@ -1,0 +1,10 @@
+person
+chair
+bottle
+table
+door
+stairs
+car
+bicycle
+bag
+phone
